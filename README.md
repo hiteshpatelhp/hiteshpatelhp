@@ -1,99 +1,143 @@
+<div align="center">
+
 # Hitesh Patel
 
-**Security Engineer – Infrastructure | Mobile | Web | Cloud**
+**senior Security Engineer | Open-Source Builder | AI x Security**
 
-📍 Dublin, Ireland · ✉️ HiteshPatelHP@outlook.com ·   
-🔗 [GitHub](https://github.com/HiteshPatelhp) · [LinkedIn](https://www.linkedin.com/in/hiteshpatel0101/)
+Dublin, Ireland
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiteshpatel0101/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HiteshPatelhp)
 
-## 👨‍💻 About Me
-
-I am a Security Engineer with 12+ years of experience securing large-scale cloud, web, and mobile infrastructures.  
-My core strengths are Application Security Assessment, Penetration Testing, and building security programs from the ground up.  
-I’ve held senior roles at Amazon, Okta, Nebius, and PwC, leading AppSec strategy, Secure SDLC, and security automation initiatives.  
-I enjoy scaling security solutions, building AI‑assisted tooling, and partnering with engineering teams to embed secure design principles.
+</div>
 
 ---
 
-## 🛡️ Core Competencies
+### About
 
-- Web & Mobile Application Security Assessments  
-- Infrastructure Vulnerability Assessment & Penetration Testing (VAPT)  
-- AWS Security & Architecture Hardening, Threat Modeling, Risk Assessment  
-- Secure Code Review & SDLC Integration (SSDLC)  
-- Incident Response & Forensics  
-- Security Automation & Orchestration (Python, AWS, CI/CD)  
-- Organizational Security Strategy & Governance  
-- Project Management, Agile Security Integration & Team Leadership  
-- Enterprise Endpoint Security
+14 years in security. Built security programs at **Yahoo**, **Amazon**, **Okta**, and **Nebius**. Currently leading security reviews and building AI-powered security workflows at Yahoo using Claude Code agents, skills, and plugins.
+
+Reviving **[OpenTerraScan](https://github.com/hiteshpatelhp/OpenTerraScan)** — the community fork of Tenable's archived Terrascan. 500+ IaC security policies. Free forever.
 
 ---
 
-## 🧰 Tools & Technologies
+### What I'm Building
 
-- **Languages:** Python, Go, JavaScript, Shell, Batch  
-- **DAST:** Burp Suite, Invicti, OWASP ZAP  
-- **SAST:** Checkmarx, Fortify, Semgrep, SonarQube, TruffleHog  
-- **Offensive & VA/PT:** Nessus, Nmap, Metasploit, OpenVAS, Kali Linux  
-- **Cloud (AWS):** IAM, Security Hub, GuardDuty, WAF, Config, CloudTrail, Security Groups, Inspector  
-- **DevSecOps:** Jenkins, Terraform, HashiCorp Vault, ELK, AWS Shield, ScoutSuite, CloudSploit  
-- **AI & Automation:** Local LLM (Ollama), Nebius AI Studio, AWS Bedrock, AWS Boto‑based tooling
+<table>
+<tr>
+<td width="50%">
 
----
+**[OpenTerraScan](https://github.com/hiteshpatelhp/OpenTerraScan)**
+<br/>Community revival of Terrascan. Static IaC security scanner with 500+ policies for Terraform, CloudFormation, Kubernetes, Docker, Helm, and more.
+<br/><br/>
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![OPA](https://img.shields.io/badge/OPA-7D9199?style=flat&logo=openpolicyagent&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
 
-## 🏢 Experience Snapshot
+</td>
+<td width="50%">
 
-### Platform Security Engineer – Nebius B.V (Oct 2025 – Present, Dublin)
+**AI Security Review Workflows**
+<br/>Building Claude Code skills, plugins, and agents for automated security reviews at Yahoo. Mentoring non-technical security colleagues to build their own AI-powered workflows.
+<br/><br/>
+![Claude](https://img.shields.io/badge/Claude_Code-191919?style=flat&logo=anthropic&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-- Established SSDLC for the cloud platform with automated security gates in CI/CD.  
-- Built an AI‑based threat modeling engine to automatically identify threat vectors in new microservices.  
-- Scaled SAST using custom Semgrep rules for complex logic flaws and anti‑patterns in a large monorepo.
-
-### Staff Security Engineer – Okta (Apr 2025 – Oct 2025, Dublin)
-
-- Led the application integration security program for internal business applications and endpoint environment.  
-- Automated the Chrome extension security review process end‑to‑end.  
-- Owned vendor procurement from POC to commercial negotiation for key security tools.
-
-### Security Engineer L5 – Amazon (Mar 2021 – Mar 2025, Dublin)
-
-- Performed architecture, code, AWS, and process security reviews for high‑impact launches.  
-- Built a centralized security scanner integration portal, saving ~500+ engineer hours per day.  
-- Led third‑party AppSec testing, remediation, and centralised logging onboarding for critical apps.  
-- Served on Amazon hiring panels for security roles.
-
-### Senior Application Security Engineer – Sporta/Dream11 (Feb 2019 – Feb 2021, Mumbai)
-
-- Led AppSec for Dream11 and incubated startups (130M+ users).  
-- Ensured zero critical security issues reached production through pre‑launch reviews.  
-- Hardened AWS security stack (WAF, SGs, Inspector, GuardDuty) and built Boto‑based automation.  
-- Launched and managed Bug Bounty programs and third‑party assessments.
-
-### Earlier Roles – PwC & Indusface (Nov 2012 - Feb 2019)
-
-- Delivered web/mobile app assessments, VA/PT, secure code review, and IoT security projects.  
-- Developed secure development guidelines for 10+ languages and trained 100+ analysts in PwC’s cyber boot camp.  
-- Built an Android app security testing tool for automated APK analysis and contributed to SSDLC initiatives.
+</td>
+</tr>
+</table>
 
 ---
 
-## 🎓 Education & Certifications
+### Experience
 
-- BCA – Tilak Maharashtra University.  
-- GCPN – GIAC Cloud Pentester.  
-- CEH – Certified Ethical Hacker.  
-- ECSA – EC‑Council Certified Security Analyst.  
-- Certified API Security Architect – API Academy.  
-- Foundations of Operationalizing MITRE ATT&CK – AttackIQ.  
-- Foundations of Purple Teaming – AttackIQ.
+```
+2026 - Present   Yahoo             Security Engineer — AI security reviews, Claude Code agents
+2025 - 2026      Nebius B.V        Platform Security Engineer — SSDLC, AI threat modeling
+2025             Okta              Staff Security Engineer — AppSec, endpoint security
+2021 - 2025      Amazon            Security Engineer L5 — Architecture reviews, security tooling
+2019 - 2021      Dream11           Sr. AppSec Engineer — 130M+ users, bug bounty, AWS hardening
+2012 - 2019      PwC / Indusface   Security Consultant — VA/PT, secure code review, training
+```
 
 ---
 
-## 📌 Focus Areas for 2026
+### Tech Stack
 
-- AI‑assisted threat modeling & security review automation.  
-- Developer‑friendly SSDLC tooling and security champions programs.  
-- Scaling cloud‑native security patterns on AWS and Kubernetes.  
+**Offensive & Assessment**
+<br/>
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat&logo=metasploit&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00C176?style=flat)
+![OWASP ZAP](https://img.shields.io/badge/ZAP-00549E?style=flat)
 
-If you’d like to discuss AppSec, cloud security, or security automation, feel free to reach out or open an issue on any repo. 🙂
+**SAST & DevSecOps**
+<br/>
+![Semgrep](https://img.shields.io/badge/Semgrep-4B11A8?style=flat)
+![Checkmarx](https://img.shields.io/badge/Checkmarx-54B848?style=flat)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white)
+![TruffleHog](https://img.shields.io/badge/TruffleHog-000000?style=flat)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+
+**Cloud Security**
+<br/>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+**Languages & AI**
+<br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_Code-191919?style=flat&logo=anthropic&logoColor=white)
+
+---
+
+### Certifications
+
+| Cert | Issuer | Focus |
+|------|--------|-------|
+| **Claude Code in Action** | Anthropic | AI-assisted development workflows |
+| **Introduction to Agent Skills** | Anthropic | Building AI agent skills |
+| **GCPN** — GIAC Cloud Penetration Tester | GIAC | Cloud offensive security |
+| **CEH** — Certified Ethical Hacker | EC-Council | Penetration testing |
+| **ECSA** — EC-Council Certified Security Analyst | EC-Council | Advanced pen testing |
+| **Certified API Security Architect** | API Academy | API threat modeling |
+| **MITRE ATT&CK Foundations** | AttackIQ | Purple teaming |
+
+---
+
+### GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hiteshpatelhp&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshpatelhp&layout=compact&theme=github_dark&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hiteshpatelhp&theme=github-dark-blue&hide_border=true)
+
+</div>
+
+---
+
+### 2026 Focus
+
+- Leading AI-powered security review workflows at **Yahoo** with Claude Code agents
+- Growing **[OpenTerraScan](https://github.com/hiteshpatelhp/OpenTerraScan)** — contributors welcome
+- Mentoring security teams on building AI-assisted security tooling
+- Writing about **cloud security + AI** on [LinkedIn](https://www.linkedin.com/in/hiteshpatel0101/)
+
+---
+
+<div align="center">
+
+**If you used Terrascan before — [OpenTerraScan](https://github.com/hiteshpatelhp/OpenTerraScan) keeps it alive. Star it, fork it, contribute.**
+
+</div>
